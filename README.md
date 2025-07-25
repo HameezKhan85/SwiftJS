@@ -1,1 +1,1 @@
-# solojs
+# SwiftJS
